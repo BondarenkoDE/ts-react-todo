@@ -1,0 +1,18 @@
+.wrapper {
+    padding: 15px;
+}
+
+.field {
+    margin-bottom: 20px !important;
+}
+
+.btns {
+    display: flex;
+    justify-content: end;
+
+    button {
+        &:last-child {
+            margin-left: 30px;
+        }
+    }
+}

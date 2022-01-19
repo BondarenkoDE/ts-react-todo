@@ -1,0 +1,16 @@
+.field {
+    display: flex;
+    padding: 15px;
+    padding-left: 30px;
+
+    .checkbox {
+        position: relative;
+        top: -5px;
+    }
+
+    button {
+        width: 35px;
+        height: 35px;
+        min-width: 10px;
+    }
+}
